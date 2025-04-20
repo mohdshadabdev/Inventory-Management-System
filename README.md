@@ -1,7 +1,7 @@
-Inventory Management System
+**Inventory Management System**
 A simple and efficient Inventory Management System built with Node.js and Express.js to handle products, categories, stock tracking, and user operations.
 
-Project Structure
+**Project Structure**
 
 ├── .vscode/                # VS Code settings  
 ├── controllers/            # Route logic and request handlers  
@@ -19,22 +19,23 @@ Project Structure
 ├── .gitignore              # Files/folders ignored by Git  
 └── README.md               # Project documentation
 
-Getting Started
-Installation
+**Getting Started**
+**Installation**
 git clone https://github.com/yourusername/inventory-management-system.git
 
 cd inventory-management-system
+
 npm install
 
-Run the App
+**Run the App:**
 
 npm start
 
-Testing:
+**Testing:**
 
 Use the Postman collection in postman-collection/ to test the API endpoints.
 
-Features:
+**Features:**
 Product & Category Management
 
 Inventory Tracking
