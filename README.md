@@ -26,6 +26,7 @@ cd inventory-management-system
 npm install
 
 Run the App
+
 npm start
 
 Testing
