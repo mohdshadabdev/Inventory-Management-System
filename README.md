@@ -22,6 +22,7 @@ Project Structure
 Getting Started
 Installation
 git clone https://github.com/yourusername/inventory-management-system.git
+
 cd inventory-management-system
 npm install
 
