@@ -29,7 +29,8 @@ Run the App
 
 npm start
 
-Testing
+Testing:
+
 Use the Postman collection in postman-collection/ to test the API endpoints.
 
 Features:
