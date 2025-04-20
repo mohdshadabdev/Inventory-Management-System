@@ -36,6 +36,7 @@ npm start
 Use the Postman collection in postman-collection/ to test the API endpoints.
 
 **Features:**
+
 Product & Category Management
 
 Inventory Tracking
